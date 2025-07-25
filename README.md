@@ -20,7 +20,5 @@ I'm Mahmoud Dahy, a Flutter developer passionate about building clean and functi
 - Chat App – Real-time chat using Firebase  
 - Weather App – Live weather info: city, temperature, status
 
-## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MahmoudDahy11&show_icons=true&theme=tokyonight)
 
