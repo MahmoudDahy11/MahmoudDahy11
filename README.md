@@ -2,7 +2,7 @@
 
 I'm Mahmoud Dahy, a Flutter developer passionate about building clean and functional mobile applications.
 
-- 🔭 Currently improving my skills in Flutter and Firebase  
+- 🔭 Currently improving my skills in Flutter 
 - 🌱 Learning clean architecture, Bloc, and backend basics  
 - 👯 Open to collaborating on Flutter projects  
 - 💬 Ask me about Flutter, Dart, Firebase, Git, Hive  
@@ -20,5 +20,7 @@ I'm Mahmoud Dahy, a Flutter developer passionate about building clean and functi
 - Chat App – Real-time chat using Firebase  
 - Weather App – Live weather info: city, temperature, status
 
+## Support my work
 
-
+If you find my work helpful and want to support me:  
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/)
