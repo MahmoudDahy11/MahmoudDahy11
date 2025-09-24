@@ -16,11 +16,12 @@ I'm Mahmoud Dahy, a Flutter developer passionate about building clean and functi
 
 ## Projects
 
-- Notes App – Add, edit, delete notes with color and local storage  
-- News App – Latest news using API with categories  
-- Products App – Product list and details with modern layout  
-- Chat App – Real-time chat using Firebase  
-- Weather App – Live weather info: city, temperature, status
+- 📝 Notes App – Add, edit, delete notes with color and local storage  
+- 📰 News App – Latest news using API with categories  
+- 🛒 Products App – Product list and details with modern layout  
+- 🗨️ Chat App – Real-time chat using Firebase  
+- ☁️ Weather App – Live weather info: city, temperature, status
+- 🛍️ E-Commerce App – Product listing, details page, cart & favorites with modern layout.
 
 ## Support my work
 
