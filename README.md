@@ -101,7 +101,7 @@ A community-driven platform for synchronized spiritual practice (dhikr), leverag
   <a href="https://linkedin.com/in/mahmoud-dahy/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
   <a href="https://github.com/MahmoudDahy11"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
   <a href="https://wa.me/201551027577"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/></a>
-  <a href="mailto:mahmouddahy.dev@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail--v1.png"/></a>
+  <a href="mailto:dahym2028@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail--v1.png"/></a>
 </p>
 
 <div align="center">
